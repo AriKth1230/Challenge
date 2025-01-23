@@ -1,1 +1,1 @@
-<h1> Como jugar Amigo Secreto </h1>}
+<h1> Como jugar Amigo Secreto </h1>
